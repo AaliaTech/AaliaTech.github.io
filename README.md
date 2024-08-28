@@ -1,2 +1,3 @@
-# AaliaTech.github.io
-## This is a test repository for AaliaTech
+Page de développement du site web de AALIA, réalisé par Raphaël BOUTAINE.
+
+Lien vers la page github : aaliatech.github.io
